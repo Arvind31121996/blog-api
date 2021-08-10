@@ -11,3 +11,9 @@ To start program
 ```bash
 nodemon dist/index.js
 ```
+
+To start test case
+
+```bash
+npm run test
+```
